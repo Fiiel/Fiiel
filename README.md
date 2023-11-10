@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @Fiiel
 - 👀 I’m interested in **.NET C#**...
-- 🌱 Learning and exploring
+- 🌱 Learning and exploring stuffs!
 - 🔖 'Looking forward to learning HTML/CSS/JavaScript next
 - ⏭️ 'Java is also next :)
 
