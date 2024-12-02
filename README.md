@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @Fiiel
 - 👀 I’m interested in **.NET C#**...
 - 🌱 Learning and exploring stuffs!
-- 🔖 'Looking forward to learning HTML/CSS/JavaScript next
-- ⏭️ 'Java is also next :)
+- 🔖 Build, build, and create!
+- ⏭️ Hoping to a bright future!
 
 <!---
 Fiiel/Fiiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
