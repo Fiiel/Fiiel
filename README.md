@@ -1,10 +1,13 @@
 ![Fiiel's SVG Shapes Banner](./svg_banner.jfif)
 
-# About Me
+# ✨ About Me
 - 👋 Hi, I’m @Fiiel
 - 👀 I’m interested in **.NET C#, WPF, & JavaScript**...
 - 🌱 Learning and exploring stuffs!
 - 🔖 Build, build, and create!
+
+  # 📬 Contacts
+  E-mail: repancol.neil.david@gmail.com
 
 <!---
 Fiiel/Fiiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
