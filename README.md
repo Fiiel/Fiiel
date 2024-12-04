@@ -1,4 +1,4 @@
-![Fiiel's SVG Mario Coding Banner](./assets/mario_coding.gif)
+![Fiiel's SVG Mario Coding Banner](./assets/mario_coding2.gif)
 
 # ✨ About Me
 - 👋 Hi, I’m @Fiiel
