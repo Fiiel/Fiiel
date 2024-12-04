@@ -7,7 +7,7 @@
 - 🔖 Build, build, and create!
 
   # 📬 Contacts
-  E-mail: repancol.neil.david@gmail.com
+ - E-mail: repancol.neil.david@gmail.com
 
 <!---
 Fiiel/Fiiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
