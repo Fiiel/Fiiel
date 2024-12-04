@@ -6,7 +6,7 @@
 - 🌱 Learning and exploring stuffs!
 - 🔖 Build, build, and create!
 
-  # 📬 Contacts
+# 📬 Contacts
  - E-mail: repancol.neil.david@gmail.com
 
 <!---
