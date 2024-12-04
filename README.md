@@ -1,4 +1,4 @@
-![Fiiel's SVG Shapes Banner](https://github.com/[Fiiel]/[Fiiel]/main/svg_banner.jfif?raw=true)
+![Fiiel's SVG Shapes Banner](https://github.com/Fiiel/Fiiel/main/svg_banner.jfif?raw=true)
 
 # About Me
 - 👋 Hi, I’m @Fiiel
