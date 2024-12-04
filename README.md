@@ -8,7 +8,8 @@
 
 ## 📬 Contacts
 ![Static Badge](https://img.shields.io/badge/E--mail-repancol.neil.david%40gmail.com-white?style=flat-square&logo=gmail&logoColor=%23EA4335&labelColor=%23FFFFFF&color=%23EA4335&link=mailto%3Arepancol.neil.david%40gmail.com)
-![Static Badge](https://img.shields.io/badge/LinkedIn-nd--repancol-blue?style=flat-square&logo=linkedin&logoSize=logosize%3D80&labelColor=%230A66C2&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnd-repancol%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn-nd--repancol-blue?style=flat&logo=linkedin&logoSize=100&labelColor=%230A66C2&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnd-repancol%2F)
+
 
 
 
