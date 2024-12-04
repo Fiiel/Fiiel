@@ -3,7 +3,7 @@
 # ✨ About Me
 - 👋 Hi, I’m @Fiiel
 - 👀 I’m interested in **.NET C#, WPF, & JavaScript**...
-- 🌱 Learning and exploring stuffs!
+- 🌱 Currently, learning and enhancing my skills in the stated language & framework above!
 - 🔖 Build, build, and create!
 
 # 📬 Contacts
