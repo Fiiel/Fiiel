@@ -7,8 +7,8 @@
 - 🔖 Build, build, and create!
 
 ## 📬 Contacts
-![Static Badge](https://img.shields.io/badge/E--mail-repancol.neil.david%40gmail.com-white?style=flat-square&logo=gmail&logoColor=%23EA4335&labelColor=%23FFFFFF&color=%23EA4335&link=mailto%3Arepancol.neil.david%40gmail.com)
-<a href="https://www.linkedin.com/in/nd-repancol/"> <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-nd--repancol-blue?style=flat-square&logo=linkedin&labelColor=blue&color=%23FFFFFF"> </a>
+<a href="mailto:repancol.neil.david@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/G--mail-repancol.neil.david%40gmail.com-%23FFFFFF?style=flat-square&logo=gmail&labelColor=%23FFFFFF&color=%23E44234"> </a>
+<a href="https://www.linkedin.com/in/nd-repancol/"> <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-nd--repancol-blue?style=flat-square&logo=linkedin&labelColor=%230A66C2&color=%23FFFFFF"> </a>
 
 ## 🛠️ Languages, Tools, & Libraries
 <!---
