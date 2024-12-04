@@ -7,7 +7,7 @@
 - 🔖 Build, build, and create!
 
 ## 📬 Contacts
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%AC%20email-repancol.neil.david%40gmail.com-blue?link=mailto%3Arepancol.neil.david%40gmail.com)](https://img.shields.io/badge/Email-repancol.neil.david%40gmail.com-white?style=flat-square&logo=gmail&logoColor=%23EA4335&labelColor=%23FFFFFF&color=%23EA4335&link=mailto%3Arepancol.neil.david%40gmail.com
+[![Static Badge](https://img.shields.io/badge/%F0%9F%93%AC%20email-repancol.neil.david%40gmail.com-blue?link=mailto%3Arepancol.neil.david%40gmail.com)](https://img.shields.io/badge/Email-repancol.neil.david%40gmail.com-white?style=flat-square&logo=gmail&logoColor=%23EA4335&labelColor=%23FFFFFF&color=%23EA4335&link=mailto%3Arepancol.neil.david%40gmail.com
 )
 
 
