@@ -9,8 +9,11 @@
 </p> 
 
 <h2 align="center"> ## 📬 Contacts </h2>
-<a href="mailto:repancol.neil.david@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/G--mail-repancol.neil.david%40gmail.com-%23FFFFFF?style=flat-square&logo=gmail&labelColor=%23FFFFFF&color=%23E44234"> </a>
-<a href="https://www.linkedin.com/in/nd-repancol/"> <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-nd--repancol-blue?style=flat-square&logo=linkedin&labelColor=%230A66C2&color=%23FFFFFF"> </a>
+<p align="center">
+  <a href="mailto:repancol.neil.david@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/G--mail-repancol.neil.david%40gmail.com-%23FFFFFF?style=flat-square&logo=gmail&labelColor=%23FFFFFF&color=%23E44234"> </a>
+  <a href="https://www.linkedin.com/in/nd-repancol/"> <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-nd--repancol-blue?style=flat-square&logo=linkedin&labelColor=%230A66C2&color=%23FFFFFF"> </a>
+</p>
+
 
 <h2 align="center"> 🛠️ Languages, Tools, & Libraries </h2>
 <!---
