@@ -6,11 +6,11 @@
 - 🌱 I'm currently learning and enhancing my skills in the stated language & framework above!
 - 🔖 Build, build, and create!
   
-<p align="center">
+<h2 align="center">
 ## 📬 Contacts
 <a href="mailto:repancol.neil.david@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/G--mail-repancol.neil.david%40gmail.com-%23FFFFFF?style=flat-square&logo=gmail&labelColor=%23FFFFFF&color=%23E44234"> </a>
 <a href="https://www.linkedin.com/in/nd-repancol/"> <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-nd--repancol-blue?style=flat-square&logo=linkedin&labelColor=%230A66C2&color=%23FFFFFF"> </a>
-</p>
+</h2>
 ## 🛠️ Languages, Tools, & Libraries
 <!---
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
