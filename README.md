@@ -3,7 +3,7 @@
 <h2 align="center"> ✨ About Me </h2>
 <p align="center"> 
   👋 Hi, I’m @Fiiel <br>
-  👀 I’m interested in **.NET, C#, WPF, ASP.NET & JavaScript**... <br>
+  👀 I’m interested in .NET, C#, WPF, ASP.NET & JavaScript... <br>
   🌱 I'm currently learning and enhancing my skills in the stated language & framework above! <br>
   🔖 Build, build, and create! <br>
 </p> 
