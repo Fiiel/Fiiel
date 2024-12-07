@@ -2,7 +2,7 @@
 
 <head>
   <style>
-    .contracts {
+.contracts {
       align="center"
       margin-left: -40px;
       margin-top: -20px;
