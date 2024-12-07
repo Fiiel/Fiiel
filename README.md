@@ -10,6 +10,14 @@
 
 <h2 align="center"> 📬 Contacts </h2>
 <p class="contacts">
+    <style>
+    .contacts {
+      align="center"
+      margin-left: -40px;
+      margin-top: -20px;
+    }
+  </style>
+  
   <a href="mailto:repancol.neil.david@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/G--mail-repancol.neil.david%40gmail.com-%23FFFFFF?style=flat-square&logo=gmail&labelColor=%23FFFFFF&color=%23E44234"> </a>
   <a href="https://www.linkedin.com/in/nd-repancol/"> <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-nd--repancol-blue?style=flat-square&logo=linkedin&labelColor=%230A66C2&color=%23FFFFFF"> </a>
 </p>
@@ -32,14 +40,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p> 
 
-<style>
-.contacts {
-  align="center"
-  margin-left: -40px;
-  margin-top: -20px;
-}
 
-</style>
 
 
 <!---
