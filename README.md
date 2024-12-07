@@ -1,19 +1,8 @@
 ![Fiiel's SVG Mario Coding Banner](./assets/mario_coding2.gif)
 
-<head>
-  <style>
-.contracts {
-      align="center"
-      margin-left: -40px;
-      margin-top: -20px;
-    }
-  </style>
-  <meta charset="UTF-8">
-  <title>Internal</title>
-</head>
 
 <h2 align="center"> ✨ About Me </h2>
-<p align="center"> 
+<p align="center" margin-left: -40px; margin-top: -20px;> 
   👋 Hi, I’m @Fiiel <br>
   👀 I’m interested in .NET, C#, WPF, ASP.NET & JavaScript... <br>
   🌱 I'm currently learning and enhancing my skills in the stated language & framework above! <br>
