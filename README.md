@@ -5,7 +5,7 @@
 <p align="center" margin-left: -40px; margin-top: -20px;> 
   👋 Hi, I’m @Fiiel <br>
   👀 I’m interested in .NET, C#, ASP.NET & JavaScript... <br>
-  🌱 I want to explore more about Unreal Engine modding <br>
+  🌱 I want to learn and explore more about Unreal Engine modding <br>
 </p> 
 
 <h2 align="center"> 📬 Contacts </h2>
